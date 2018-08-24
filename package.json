@@ -1,0 +1,19 @@
+{
+  "name": "reactpt",
+  "version": "1.0.0",
+  "description": "create-react-app from scratch",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/MindBlowingSoftware/createreactapp.git"
+  },
+  "author": "Sanjay Sharma",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/MindBlowingSoftware/createreactapp/issues"
+  },
+  "homepage": "https://github.com/MindBlowingSoftware/createreactapp#readme"
+}
